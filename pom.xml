@@ -19,13 +19,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     
 
-    <groupId>user-storage-jpa-example</groupId>
+    <groupId>user-storage-jpa-dbusers-1</groupId>
     <version>1</version>
     <name>SPI JPA Provider DBUsers1</name>
     <description/>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>user-storage-jpa-example</artifactId>
+    <artifactId>user-storage-jpa-dbusers-1</artifactId>
     <packaging>jar</packaging>
 
     <properties>

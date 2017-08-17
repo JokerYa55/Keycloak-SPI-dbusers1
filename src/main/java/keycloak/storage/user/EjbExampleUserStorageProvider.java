@@ -34,9 +34,8 @@ import java.util.Map;
 import java.util.Set;
 import java.util.UUID;
 import keycloak.bean.logUser;
-import static keycloak.storage.HTTPUtil.Util.doGet;
 import org.keycloak.common.util.MultivaluedHashMap;
-
+import static org.keycloak.examples.storage.HTTPUtil.Util.doGet;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.FederatedIdentityModel;
 import org.keycloak.models.ProtocolMapperModel;
